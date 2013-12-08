@@ -6,3 +6,6 @@ console.log(people);
 
 var year = prompt("How many days are in a year?");
 console.log(year);
+
+var total = sodas * people * 365 / 12;
+alert("Your household consumes" + " " + (total) + " " + "12 packs of soda a year!");
