@@ -5,3 +5,6 @@ console.log(distance);
 
 var hundredFoot = prompt("How many 100 foot cables do you need?")
 console.log(hundredFoot);
+
+var fiftyFoot = prompt("How many 50 foot cables do you need?");
+console.log(fiftyFoot);
