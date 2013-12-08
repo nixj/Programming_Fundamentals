@@ -8,3 +8,5 @@ console.log(hundredFoot);
 
 var fiftyFoot = prompt("How many 50 foot cables do you need?");
 console.log(fiftyFoot);
+
+alert("You will need" + " " + (hundredFoot) + " " + "100 foot cables and" + " " + (fiftyFoot) + " " + "50 foot cables to go" + " " + (distance) + " " + "feet.");
