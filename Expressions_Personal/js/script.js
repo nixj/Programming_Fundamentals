@@ -7,3 +7,6 @@ var babies = prompt("How many kids are you feeding");
 
 var year = prompt("How many days are in a year?");
 console.log(year);
+
+var total = bottles * babies * year;
+alert(total);
