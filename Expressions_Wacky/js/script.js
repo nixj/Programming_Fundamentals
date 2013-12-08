@@ -3,3 +3,6 @@ console.log(sodas);
 
 var people = prompt("How many people in your house drink soda?");
 console.log(people);
+
+var year = prompt("How many days are in a year?");
+console.log(year);
