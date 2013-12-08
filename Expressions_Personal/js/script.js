@@ -2,3 +2,5 @@
 
 var bottles = prompt("How many bottles are needed a day per kid?");
 console.log(bottles);
+
+var babies = prompt("How many kids are you feeding");
