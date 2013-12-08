@@ -2,3 +2,6 @@
 
 var distance = prompt("What is the distance from your dvr to your security camera?");
 console.log(distance);
+
+var hundredFoot = prompt("How many 100 foot cables do you need?")
+console.log(hundredFoot);
