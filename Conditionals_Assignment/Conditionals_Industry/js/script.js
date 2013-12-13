@@ -7,4 +7,6 @@ if (age >= 55 && drink == "yes") {
     console.log("You're meal total comes out to $6");
 } else if (age >= 55 && drink == "no") {
     console.log("You're meal total comes out to $5.50");
+} else if (age < 55 && drink == "yes") {
+    console.log("You're meal total comes out to $7");
 }
