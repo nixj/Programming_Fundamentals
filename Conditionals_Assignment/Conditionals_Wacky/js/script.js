@@ -10,3 +10,5 @@ if (children == "yes" && kidsAge < 5) {
 } else {
     movie = "Anchorman 2"
 }
+
+movie = (children == "yes" && kidsAge < 5) ? "Frozen" : "Anchorman 2";
