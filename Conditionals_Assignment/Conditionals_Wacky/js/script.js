@@ -7,4 +7,6 @@ var movie; //declares the variable for what movie will be seen
 
 if (children == "yes" && kidsAge < 5) {
     movie = "Frozen";
+} else {
+    movie = "Anchorman 2"
 }
