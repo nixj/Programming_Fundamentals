@@ -7,3 +7,5 @@ function pet(x, y) { //function named and arguments set
     var dog = x == "yes"; //variable set when owning a dog equals yes
     var cat = y == "no"; //variable set when owning a cat equals no
 }
+
+var pets = pet(petDog, petCat);
