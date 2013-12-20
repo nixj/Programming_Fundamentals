@@ -8,4 +8,4 @@ function pet(x, y) { //function named and arguments set
     var cat = y == "no"; //variable set when owning a cat equals no
 }
 
-var pets = pet(petDog, petCat);
+var pets = pet(petDog, petCat); //variable setting parameter values
