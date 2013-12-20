@@ -1,10 +1,7 @@
-var total = calcCirc(2, 3.14, 3);
+var total = calcStings(weight, 8.666666667);
 
-function calcCirc(d, p, n) {
-    var circumference = d * p * n;
-    return circumference
+function calcStings(w, s) {
+    var stings = w * s;
+    return stings;
 }
-console.log(total);
-
-//defined function calcCirc and set arguments
-//defined variable to calculate the circumference
+console.log("It takes " + total + " bee stings to kill this animal.");
