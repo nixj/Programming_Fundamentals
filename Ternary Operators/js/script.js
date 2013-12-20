@@ -1,10 +1,17 @@
+//Johnny Nix 12-12-13 Functions - Wacky
 
+var departments = prompt("How many police departments are in your town?");
+var personnel = prompt("How many policemen are in each department?")
 
-function pet(x, y) {
-    var dog = x == "yes";
-    var cat = y == "no";
+var cops = function(x, y) {
+    var people = x * y;
+    return people;
 }
 
-var pets = pet(petDog, petCat);
+var officerTotal = cops(departments, personnel);
 
-nextPet = (petDog = "yes" || petCat == "no") ? console.log("You can't have dog!") : console.log("You can get a dog!");
+if (officerTotal >= 25) {
+    console.log("The town will hold a dinner in honor of your town\'s heroes because there are " + officerTotal + " people in your " + departments + " departments");
+} else {
+    console.log("There are only " + officerTotal + " people in your departments, so there will be no dinner.");
+}
