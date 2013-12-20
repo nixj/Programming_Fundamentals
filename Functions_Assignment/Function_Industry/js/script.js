@@ -15,9 +15,9 @@ var perimeterTriangle = function(x, y, z) { //anonymous function for the perimet
 var triangle = perimeterTriangle(5, 8, 12); //defines the variable triangle and the necessary arguments / parameters
 
 if (rhombus == triangle) { //if statement determining if the area of the rhombus equals the perimeter of the triangle
-    console.log("Congratulations, the area of your rhombus " + rhombus + "inches is equal to the perimeter of your triangle " + triangle + "inches."); //prints the following statement
+    console.log("Congratulations, the area of your rhombus " + rhombus + "inches is equal to the perimeter of your triangle " + triangle + "inches."); //prints the following statement to the console
 } else if (rhombus > triangle) { //else if statement determining if the area of the rhombus is greater than the perimeter of the triangle
-    console.log("Your rhombus which is equal to " + rhombus + " inches, is larger than the perimeter of your triangle which is " + triangle + " inches.") //prints the following statement
-} else {
-    console.log("Your rhombus which is equal to " + rhombus + " inches, is smaller than the perimeter of you triangle which is " + triangle + " inches.")
+    console.log("Your rhombus which is equal to " + rhombus + " inches, is larger than the perimeter of your triangle which is " + triangle + " inches.") //prints the following statement to the console
+} else { //else statement that is determined if the rhombus' area and the triangle's perimeter are not equal and the area of the rhombus is smaller than the perimeter of the triangle
+    console.log("Your rhombus which is equal to " + rhombus + " inches, is smaller than the perimeter of you triangle which is " + triangle + " inches.") //prints the following statement to the console
 }
