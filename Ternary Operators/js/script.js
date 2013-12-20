@@ -1,4 +1,4 @@
-var petCat = prompt("Do you have any cats?");
+
 
 function pet(x, y) {
     var dog = x == "yes";
