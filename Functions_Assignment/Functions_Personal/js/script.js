@@ -7,3 +7,6 @@ var food = function(x, y) { //defines the function food and sets parameters / ar
     var food = x * y; //calculates the number of meals times the number of days
     return food; //return for variable food
 }
+
+var mealTotal = food(meals, days);
+console.log("Each soldier has " + mealTotal + " meals for the upcoming mission.");
