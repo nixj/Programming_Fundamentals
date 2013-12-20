@@ -11,6 +11,6 @@ function calcCirc(d, p, n) { //defined function calcCirc and set arguments
 }
 console.log("The circumference of the circle is " + total); //prints the total of the circumference to the console
 
-var weight = 125;
+var weight = 125; //defined variable for the victim's weight
 
 
