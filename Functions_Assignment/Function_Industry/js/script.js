@@ -11,3 +11,9 @@ var perimeterTriangle = function(x, y, z) { //anonymous function for the perimet
     var perimeter = x + y + z; //defines the variable perimeter which adds together the three sides of a triangle
     return perimeter; //return for the variable perimeter
 }
+
+var triangle = perimeterTriangle(5, 8, 12); //defines the variable triangle and the necessary arguments / parameters
+
+if (rhombus == triangle) { //if statement determining if the area of the rhombus equals the perimeter of the triangle
+    console.log("Congratulations, the area of your rhombus " + rhombus + "inches is equal to the perimeter of your triangle " + triangle + "inches."); //prints the following statement
+}
