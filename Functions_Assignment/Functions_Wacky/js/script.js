@@ -9,3 +9,9 @@ var cops = function(x, y) { //anonymous function to determine the number of pers
 }
 
 var officerTotal = cops(departments, personnel); //defines the parameters / arguments for the officer total
+
+if (officerTotal >= 25) {
+    console.log("The town will hold a dinner in honor of your town\'s heroes because there are " + officerTotal + " people in your " + departments + " departments");
+} else {
+    console.log("There are only " + officerTotal + " people in your departments, so there will be no dinner.");
+}
