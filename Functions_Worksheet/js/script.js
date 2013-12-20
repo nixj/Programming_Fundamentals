@@ -13,6 +13,7 @@ console.log("The circumference of the circle is " + total); //prints the total o
 
 var weight = 125; //defined variable for the victim's weight
 
-var total = calcStings(weight, 8.666666687);
+var total = calcStings(weight, 8.666666687); //defined calcStings to reflect the victim's weight and the number of stings needed to kill
+//Also defined the result as the variable total to be printed
 
 
