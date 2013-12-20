@@ -24,15 +24,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="113" selection-start="521" selection-end="717" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_Assignment/Function_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="26" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
@@ -42,9 +33,9 @@
         </entry>
       </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Wacky/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="197" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.26933703" vertical-offset="0" max-vertical-offset="724">
+            <state line="3" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.061058346" vertical-offset="0" max-vertical-offset="737">
               <folding />
             </state>
           </provider>
@@ -69,8 +60,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Functions_Assignment/Function_Industry/js/script.js" />
-        <option value="$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Assignment/Functions_Wacky/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js" />
       </list>
     </option>
   </component>
@@ -374,9 +365,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="113" selection-start="521" selection-end="717" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+        <state line="13" column="197" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.26933703" vertical-offset="0" max-vertical-offset="724">
           <folding />
         </state>
       </provider>
@@ -388,9 +379,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Wacky/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="197" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.26933703" vertical-offset="0" max-vertical-offset="724">
+        <state line="3" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.061058346" vertical-offset="0" max-vertical-offset="737">
           <folding />
         </state>
       </provider>
