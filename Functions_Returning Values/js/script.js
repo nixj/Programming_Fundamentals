@@ -6,5 +6,5 @@ function calcCirc(d, p, n) {
 }
 console.log(total);
 
-//defined calcCirc to reflect the formula to find the circumference of a circle 2 times Pi times the Radius
-//Also defined the result as the variable total to be printed
+//defined function calcCirc and set arguments
+//defined variable to calculate the circumference
