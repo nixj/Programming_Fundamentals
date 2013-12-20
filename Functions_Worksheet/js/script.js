@@ -20,4 +20,4 @@ function calcStings(w, s) { //defined function calcStings and set parameters
     var stings = w * s; //defined variable to calculate the number of stings required to kill the victim
     return stings; //added return to reflect the total number of stings
 }
-console.log("It takes " + total + " bee stings to kill this animal.")
+console.log("It takes " + total + " bee stings to kill this animal.") //prints the total number of stings needed to kill the victim
