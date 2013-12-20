@@ -8,5 +8,5 @@ var food = function(x, y) { //defines the function food and sets parameters / ar
     return food; //return for variable food
 }
 
-var mealTotal = food(meals, days);
+var mealTotal = food(meals, days); //defines the mealTotal variable
 console.log("Each soldier has " + mealTotal + " meals for the upcoming mission.");
