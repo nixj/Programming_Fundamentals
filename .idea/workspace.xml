@@ -24,9 +24,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_Assignment/Function_Industry/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="49" selection-start="399" selection-end="399" vertical-scroll-proportion="0.14246947" vertical-offset="0" max-vertical-offset="737">
+            <state line="3" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.061058346" vertical-offset="0" max-vertical-offset="737">
               <folding />
             </state>
           </provider>
@@ -50,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Assignment/Function_Industry/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js" />
       </list>
     </option>
   </component>
@@ -329,16 +329,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Function_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.04070556" vertical-offset="0" max-vertical-offset="737">
+        <state line="7" column="49" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Function_Industry/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Assignment/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="49" selection-start="399" selection-end="399" vertical-scroll-proportion="0.14246947" vertical-offset="0" max-vertical-offset="737">
+        <state line="3" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.061058346" vertical-offset="0" max-vertical-offset="737">
           <folding />
         </state>
       </provider>
