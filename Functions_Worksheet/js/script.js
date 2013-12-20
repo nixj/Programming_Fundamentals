@@ -9,4 +9,4 @@ function calcCirc(d, p, n) { //defined function calcCirc and set arguments
     var circumference = d * p * n; //defined variable to calculate the circumference
     return circumference //added return to reflect the circumference
 }
-console.log(total);
+console.log(total); //prints the total of the circumference to the console
