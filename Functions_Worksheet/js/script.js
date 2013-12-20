@@ -7,5 +7,5 @@ var total = calcCirc(2, 3.14, 3); //defined calcCirc to reflect the formula to f
 
 function calcCirc(d, p, n) { //defined function calcCirc and set arguments
     var circumference = d * p * n; //defined variable to calculate the circumference
-    return circumference
+    return circumference //added return to reflect the circumference
 }
