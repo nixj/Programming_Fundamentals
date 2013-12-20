@@ -9,3 +9,5 @@ function pet(x, y) { //function named and arguments set
 }
 
 var pets = pet(petDog, petCat); //variable setting parameter values
+
+nextPet = (petDog = "yes" || petCat == "no") ? console.log("You can't have dog!") : console.log("You can get a dog!"); //ternary that prints to the console to determine if you can have another dog
