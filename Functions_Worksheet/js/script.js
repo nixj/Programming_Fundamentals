@@ -17,4 +17,5 @@ var total = calcStings(weight, 8.666666687); //defined calcStings to reflect the
 //Also defined the result as the variable total to be printed
 
 function calcStings(w, s) { //defined function calcStings and set parameters
+    var stings = w * s; //defined variable to calculate the number of stings required to kill the victim
 }
