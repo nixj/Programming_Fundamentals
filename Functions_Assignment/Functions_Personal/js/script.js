@@ -4,6 +4,6 @@ var petDog = prompt("Do you already have a dog?"); //defined variable gathering 
 var petCat = prompt("Do you have any cats?"); //defined variable gathering if the user has a cat
 
 function pet(x, y) { //function named and arguments set
-    var dog = x == "yes";
-    var cat = y == "no";
+    var dog = x == "yes"; //variable set when owning a dog equals yes
+    var cat = y == "no"; //variable set when owning a cat equals no
 }
