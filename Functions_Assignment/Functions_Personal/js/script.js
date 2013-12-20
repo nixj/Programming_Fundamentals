@@ -4,6 +4,6 @@ var meals = prompt("How many meals does each soldier get a day?"); //defines the
 var days = prompt("How many days will the mission take?"); //defines the number of days the mission will go on based on input
 
 var food = function(x, y) { //defines the function food and sets parameters / arguments
-    var food = x * y;
-    return food;
+    var food = x * y; //calculates the number of meals times the number of days
+    return food; //return for variable food
 }
