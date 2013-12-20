@@ -3,10 +3,7 @@
 var departments = prompt("How many police departments are in your town?");
 var personnel = prompt("How many policemen are in each department?")
 
-var cops = function(x, y) {
-    var people = x * y;
-    return people;
-}
+
 
 var officerTotal = cops(departments, personnel);
 
