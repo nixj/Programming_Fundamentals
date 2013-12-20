@@ -1,4 +1,4 @@
-var days = prompt("How many days will the mission take?");
+
 
 var food = function(x, y) {
     var food = x * y;
