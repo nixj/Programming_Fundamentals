@@ -18,4 +18,6 @@ if (rhombus == triangle) { //if statement determining if the area of the rhombus
     console.log("Congratulations, the area of your rhombus " + rhombus + "inches is equal to the perimeter of your triangle " + triangle + "inches."); //prints the following statement
 } else if (rhombus > triangle) { //else if statement determining if the area of the rhombus is greater than the perimeter of the triangle
     console.log("Your rhombus which is equal to " + rhombus + " inches, is larger than the perimeter of your triangle which is " + triangle + " inches.") //prints the following statement
-} 
+} else {
+    console.log("Your rhombus which is equal to " + rhombus + " inches, is smaller than the perimeter of you triangle which is " + triangle + " inches.")
+}
