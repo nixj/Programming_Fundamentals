@@ -7,3 +7,5 @@ var cops = function(x, y) { //anonymous function to determine the number of pers
     var people = x * y; //defines the variable calculating the number of departments by the number of personnel in each department
     return people; //return for the variable people
 }
+
+var officerTotal = cops(departments, personnel); //defines the parameters / arguments for the officer total
